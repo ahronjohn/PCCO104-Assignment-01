@@ -14,7 +14,7 @@ class Program {
             }
             else
             {
-                Console.WriteLine("No person found for the given denomination.");
+                Console.WriteLine("Invalid Denomination.");
             }
         }
         else
